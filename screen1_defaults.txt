@@ -1,0 +1,7 @@
+# Screen 1 default settings
+participant_id=Participant_001
+side=R
+block=Pre
+training_type=Angle
+fullscreen=0
+extravel=0.004
